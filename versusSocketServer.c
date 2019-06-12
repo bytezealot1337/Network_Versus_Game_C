@@ -73,7 +73,7 @@ int main(int argc, char *argv[])
 
     printf("*****************************\n");
     printf("*                           *\n");
-    printf("*   VERSUS V1.0 (C)ZAPPS    *\n");
+    printf("*       VERSUS V1.0         *\n");
     printf("*                           *\n");
     printf("*****************************\n\n");
 
