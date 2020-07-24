@@ -114,9 +114,7 @@ int main(int argc, char *argv[])
              error("ERROR reading from socket");
         }
 
-        printf("\nYour opponent chose to play [%d][%d]\n",
-         opponentCards[opponentItemToPlay[0]][0],
-          opponentCards[opponentItemToPlay[0]][1]);
+        printf("\nYour opponent chose to play [%d][%d]\n", opponentCards[opponentItemToPlay[0]][0], opponentCards[opponentItemToPlay[0]][1]);
 
         do
         {
